@@ -135,3 +135,4 @@ const Contacts = ({ yourContacts, setYourContacts, setContactHistory }) => {
 };
 
 export default Contacts;
+
