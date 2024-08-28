@@ -1,6 +1,6 @@
 {
   "homepage": ".",
-  "name": "rapid-whatsapp",
+  "name": "Connect-whatsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
