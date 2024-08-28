@@ -100,3 +100,4 @@ const History = ({ contactHistory, setContactHistory }) => {
 };
 
 export default History;
+
