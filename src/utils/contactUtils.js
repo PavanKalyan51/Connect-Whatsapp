@@ -12,3 +12,4 @@ export const saveHistory = (number, timedate) => {
   });
   localStorage.setItem("history", JSON.stringify(historyArray));
 };
+
